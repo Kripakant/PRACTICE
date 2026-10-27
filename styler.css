@@ -1,0 +1,55 @@
+/*TAG ELEMENT SELECTORS */
+
+/* h1{ 
+    background-color:pink;
+}
+ul{
+    background-color:aquamarine;
+}
+h2{
+    background-color:blue;
+} */
+
+/* ID BASED SELECTORS */
+/* #first{
+    background-color:blue;
+} */
+
+/* CLASS BASED SELECTORS */
+
+/* .third{
+    background-color:green;
+}
+.fourth{
+    background-color:violet
+} */
+
+/* GROUP BASED SELECTORS */
+h1,.third,.fourth{
+    background-color:rgba(115, 180, 124, 0.849);
+}
+
+/* FONT */
+
+h1{
+    font-size: 80px;
+}
+ul{
+    font-size:20px;
+}
+/* li{
+    font-size:2em;
+} */
+html{
+    font-size:40px;
+}
+/* h2{
+    font-size:2rem;
+} */
+ h2{
+    font-size:5vw;
+ }
+ li{
+    /* font-size:3vh; */
+    font-size:75%;
+ }
