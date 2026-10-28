@@ -1,0 +1,35 @@
+#container{
+    height:200px;
+    width: 270px;px;
+    background-color:blue;
+    position:relative;
+
+    
+
+}
+#rectangle1{
+    height:50px;
+    width:270px;
+    background-color:red;
+    top:0px;
+}
+#rectangle2{
+    height:50px;
+    width:270px;
+    background-color:red;
+    top:150px;
+    bottom:0px;
+    position:absolute;
+}
+#circle{
+    height:90px;
+    width:90px;
+    border-radius:50% ;
+    background-color:white;
+    left:90px;
+    top:55px;
+    position:absolute;
+    
+
+
+}
