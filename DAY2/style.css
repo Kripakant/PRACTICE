@@ -16,4 +16,7 @@ h2{
 }
 p{
     background-color:turquoise;
+    padding:20px;
+    border: 5px solid red;
+    margin:15px;
 }
